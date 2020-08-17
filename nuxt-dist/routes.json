@@ -1,0 +1,29 @@
+[
+  {
+    "name": "prismic-preview",
+    "path": "/preview",
+    "component": "D:\\\\Projects\\\\my-portfolio\\\\my-portfolio\\\\nuxt-dist\\\\prismic\\\\pages\\\\preview.vue",
+    "_name": "_4b04bfca"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "D:\\\\Projects\\\\my-portfolio\\\\my-portfolio\\\\pages\\\\projects\\\\index.vue",
+    "chunkName": "pages/projects/index",
+    "_name": "_d2d2ed00"
+  },
+  {
+    "name": "projects-id",
+    "path": "/projects/:id",
+    "component": "D:\\\\Projects\\\\my-portfolio\\\\my-portfolio\\\\pages\\\\projects\\\\_id.vue",
+    "chunkName": "pages/projects/_id",
+    "_name": "_5d8e2830"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Projects\\\\my-portfolio\\\\my-portfolio\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b6705c8c"
+  }
+]
